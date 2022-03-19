@@ -1,0 +1,2 @@
+# BojlHa_u3_HellogBuWHblX_KjleTo4HblX_aBToMaToB
+Волна из неподвижных клеточных автоматов
